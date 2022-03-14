@@ -2,5 +2,11 @@ body{
     color: deeppink;
     text-align: center;
     font-family: "Arial";
+<<<<<<< HEAD
     
+=======
+}
+footer{
+    font-style: italic;
+>>>>>>> cabecera
 }
